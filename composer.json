@@ -2,7 +2,7 @@
     "name": "walerij/c1",
     "description": "test privet",
     "type": "library",
-    "license": "ICS",
+    "license": "mit",
     "authors": [
         {
             "name": "Zhdanov Valery",
