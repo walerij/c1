@@ -2,6 +2,7 @@
     "name": "walerij/c1",
     "description": "test privet",
     "type": "library",
+    "minimum-stability": "stable",
     "license": "mit",
     "authors": [
         {
