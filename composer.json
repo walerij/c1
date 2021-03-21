@@ -10,5 +10,8 @@
             "email": "becwal@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": ["src"]
+    }
 }
