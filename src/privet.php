@@ -9,4 +9,10 @@
       {
           return $hello+","+$name+"!";
       }
+       function hi_test($name="")
+       {
+           return "test";
+       }
+
+
   }
