@@ -10,7 +10,9 @@
             "email": "becwal@yandex.ru"
         }
     ],
-    "require": {},
+    "require": {
+        "andydune/currency-rate-cbr": "^1"
+    },
     "autoload": {
         "classmap": ["src"]
     }
