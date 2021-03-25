@@ -22,7 +22,10 @@ composer require walerij/c1
      "walerij/c1": "^1"
 }
 ```
-
+и запустить команду
+```
+composer update
+```
 
 ## Быстрый старт
 
