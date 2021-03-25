@@ -9,8 +9,7 @@
 
 ## Быстрый старт
 
-```
-<?php
+```php
 
 include "vendor/autoload.php";
 
